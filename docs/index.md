@@ -11,14 +11,14 @@ Here is an example how to do it in MarkDown for user haavardaagesen:
 ```
 ## Publishing the maps 
 
-In order to access the files via the links, you need to set the repository as public and adjust the GitHub pages settins
+In order to access the files via the links, you need to set the repository as public and adjust the GitHub pages settings
 
 ## My maps
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
- - [My interactive map](https://autogis-2021.github.io/exercise-5-chtimmer/Clustermap.html)
+ - [My static map](https://autogis-2021.github.io/exercise-5-chtimmer/docs/clustermap.html)
+ - [My interactive map](https://autogis-2021.github.io/exercise-5-chtimmer/docs/clustermap.html)
  
  You can check syntax for formatting the links in here: 
  - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
