@@ -17,10 +17,10 @@ In order to access the files via the links, you need to set the repository as pu
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map](https://autogis-2021.github.io/exercise-5-chtimmer/tree/main/docs/traffic_accidents.html)
- - [My static map](https://autogis-2021.github.io/exercise-5-chtimmer/tree/main/docs/bike_stations.html)
- - [My interactive map](https://autogis-2021.github.io/exercise-5-chtimmer/tree/main/docs/cluster_map.html)
- - [My interactive map](https://autogis-2021.github.io/exercise-5-chtimmer/tree/main/docs/heat_map.html)
+ - [My static map (traffic accidents)](https://autogis-2021.github.io/exercise-5-chtimmer/traffic_accidents.html)
+ - [My static map (bike stations)](https://autogis-2021.github.io/exercise-5-chtimmer/bike_stations.html)
+ - [My interactive map (cluster map)](https://autogis-2021.github.io/exercise-5-chtimmer/cluster_map.html)
+ - [My interactive map (heat map)](https://autogis-2021.github.io/exercise-5-chtimmer/heat_map.html)
  
  You can check syntax for formatting the links in here: 
  - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
